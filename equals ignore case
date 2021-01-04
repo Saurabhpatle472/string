@@ -1,0 +1,11 @@
+public class EqualsIgonreCase{
+public static void main (string args []){
+string s1 = "sarubh";
+string s2 = "sarubh";
+string s3 = "patle";
+string s4 = "cricketer";
+system.out.println(s1.equalsIgnoreCase(s2));
+system.out.println(s1.equalsIgnoreCase(s2));
+system.out.println(s1.equalsIgnoreCase(s2));
+}
+}
