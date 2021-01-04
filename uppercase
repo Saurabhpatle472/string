@@ -1,0 +1,7 @@
+public classs stringfUpperExample{
+public static void main (string [] args){
+string s1 = "saurabh";
+string s1Upper = s1.to upper case();
+system.out.println(s1 upper);
+}
+}
