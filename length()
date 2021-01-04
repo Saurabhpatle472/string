@@ -1,0 +1,8 @@
+public class main {
+public static void main (string [] args){
+string s1 = "saurabh";
+string s2 = " cricketer";
+system . out.println ("s1.length"());//7 is the length of s1
+syste.out.println("s2.length"());//9 is the length of s2
+}
+}
